@@ -6,29 +6,31 @@ Image Classification task performed on MNIST Dataset using CNN architecture. Pur
  - Tunable CNN architecture achieving 98.29% accuracy
  - Hyperparameter tuning through Optuna and effective results storing
 
-## Results and Sumamry 
-<!-- Plot 1 --> 
-<div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="200" />
-    <p>Accuracy Plot.</p>
-</div>
+## Results and Summary 
+<div style="display: flex; flex-wrap: wrap;">
+    <!-- Plot 1 -->
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="100%" />
+        <p style="text-align: center;">Plot 1: Accuracy Plot.</p>
+    </div>
 
-<!-- Plot 2 -->
-<div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="200" />
-    <p>Loss Plot.</p>
-</div>
+    <!-- Plot 2 -->
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="100%" />
+        <p style="text-align: center;">Plot 2: Loss Plot.</p>
+    </div>
 
-<!-- Plot 3 -->
-<div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="200" />
-    <p>Learning Rate.</p>
-</div>
+    <!-- Plot 3 -->
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="100%" />
+        <p style="text-align: center;">Plot 3: Learning Rate.</p>
+    </div>
 
-<!-- Plot 4 -->
-<div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="200" />
-    <p>Final Study Evaluation.</p>
+    <!-- Plot 4 -->
+    <div style="flex: 50%; padding: 5px;">
+        <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="100%" />
+        <p style="text-align: center;">Plot 4: Final Study Evaluation.</p>
+    </div>
 </div>
 
 Summary:
