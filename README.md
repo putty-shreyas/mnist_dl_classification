@@ -1,4 +1,4 @@
-## MNIST Dataset Classification using tunable CNN architcture
+## MNIST Dataset Classification using tunable CNN architecture
 
 Image Classification task performed on MNIST Dataset using CNN architecture. Purpose of the project was to show a clean and efficient Python-based Deep Learning project with hyperparameter optimization and tuning setup using Optuna
 
@@ -27,7 +27,7 @@ Image Classification task performed on MNIST Dataset using CNN architecture. Pur
 
 <!-- Plot 4 -->
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="1000" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="1200" />
     <p>Final Study Evaluation.</p>
 </div>
 
