@@ -1,33 +1,33 @@
-## MNIST Dataset Classification using CNN
+## MNIST Dataset Classification using tunable CNN architcture
 
-Image Classification task performed on MNIST Dataset using CNN architecture. Purpose of the project was to show a clean and efficient, Python-based Deep Learning project with hyperparameter optimization and tuning setup using Optuna
+Image Classification task performed on MNIST Dataset using CNN architecture. Purpose of the project was to show a clean and efficient Python-based Deep Learning project with hyperparameter optimization and tuning setup using Optuna
 
 ## Features 
- - Customizable CNN architecture through hyperparameter tuning
+ - Tunable CNN architecture achieving 98.29% accuracy
  - Hyperparameter tuning through Optuna and effective results storing
 
-## Results and Sumamry
-<!-- Plot 1 -->
+## Results and Sumamry 
+<!-- Plot 1 --> 
 <div>
-    <img src="D:\Data_Science\Projects\mnist_classification\Results\2024-04-03_13-32-38\Trial_19\Accuracy_Plot.png" alt="Plot 1" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="200" />
     <p>Accuracy Plot.</p>
 </div>
 
 <!-- Plot 2 -->
 <div>
-    <img src="D:\Data_Science\Projects\mnist_classification\Results\2024-04-03_13-32-38\Trial_19\Loss_Plot.png" alt="Plot 2" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="200" />
     <p>Loss Plot.</p>
 </div>
 
 <!-- Plot 3 -->
 <div>
-    <img src="D:\Data_Science\Projects\mnist_classification\Results\2024-04-03_13-32-38\Trial_19\Learning_Rate.png" alt="Plot 3" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="200" />
     <p>Learning Rate.</p>
 </div>
 
 <!-- Plot 4 -->
 <div>
-    <img src="D:\Data_Science\Projects\mnist_classification\Results\2024-04-03_13-32-38\evaluated_summary.png" alt="Plot 4" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="200" />
     <p>Final Study Evaluation.</p>
 </div>
 
