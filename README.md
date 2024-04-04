@@ -27,7 +27,7 @@ Image Classification task performed on MNIST Dataset using CNN architecture. Pur
 
 <!-- Plot 4 -->
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="500" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="1000" />
     <p>Final Study Evaluation.</p>
 </div>
 
