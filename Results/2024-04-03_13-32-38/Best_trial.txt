@@ -1,0 +1,12 @@
+{
+  "Batch_size": 1024,
+  "Optimizer": "Adam",
+  "Scheduler": "ExponentialLR",
+  "Learning_Rate": 0.0030216535879656376,
+  "Conv_Layers": 3,
+  "Initializer": "xavier_normal",
+  "Best_trial": 19,
+  "Accuracy": 98.29579878826532,
+  "Loss": 1.479727065563202,
+  "Epoch": 12
+}
