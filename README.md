@@ -9,25 +9,25 @@ Image Classification task performed on MNIST Dataset using CNN architecture. Pur
 ## Results and Summary 
 <!-- Plot 1 --> 
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="400" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="500" />
     <p>Accuracy Plot.</p>
 </div>
 
 <!-- Plot 2 -->
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="500" />
     <p>Loss Plot.</p>
 </div>
 
 <!-- Plot 3 -->
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="500" />
     <p>Learning Rate.</p>
 </div>
 
 <!-- Plot 4 -->
 <div>
-    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="200" />
+    <img src="https://github.com/putty-shreyas/mnist_dl_classification/blob/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="500" />
     <p>Final Study Evaluation.</p>
 </div>
 
