@@ -7,35 +7,26 @@ Image Classification task performed on MNIST Dataset using CNN architecture. Pur
  - Hyperparameter tuning through Optuna and effective results storing
 
 ## Results and Summary 
-<style>
-    /* CSS styles for centering */
-    .plot-container {
-        text-align: center;
-        margin: auto;
-        width: fit-content;
-    }
-</style>
-
 <!-- Plot 1 --> 
-<div class="plot-container">
+<div align="center">
     <img src="https://raw.githubusercontent.com/putty-shreyas/mnist_dl_classification/main/Results/2024-04-03_13-32-38/Trial_19/Accuracy_Plot.png" alt="Plot 1" width="500" />
     <p>Accuracy Plot</p>
 </div>
 
 <!-- Plot 2 -->
-<div class="plot-container">
+<div align="center">
     <img src="https://raw.githubusercontent.com/putty-shreyas/mnist_dl_classification/main/Results/2024-04-03_13-32-38/Trial_19/Loss_Plot.png" alt="Plot 2" width="500" />
     <p>Loss Plot</p>
 </div>
 
 <!-- Plot 3 -->
-<div class="plot-container">
+<div align="center">
     <img src="https://raw.githubusercontent.com/putty-shreyas/mnist_dl_classification/main/Results/2024-04-03_13-32-38/Trial_19/Learning_Rate.png" alt="Plot 3" width="500" />
     <p>Learning Rate</p>
 </div>
 
 <!-- Plot 4 -->
-<div class="plot-container">
+<div align="center">
     <img src="https://raw.githubusercontent.com/putty-shreyas/mnist_dl_classification/main/Results/2024-04-03_13-32-38/evaluated_summary.png" alt="Plot 4" width="1200" />
     <p>Final Study Evaluation</p>
 </div>
